@@ -1,0 +1,3 @@
+<cross-domain-policy>
+	<allow-access-from domain="*.ibet.ws" secure="false" />
+</cross-domain-policy>
